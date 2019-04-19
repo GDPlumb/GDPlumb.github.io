@@ -1,0 +1,9 @@
+
+title: Gregory Plumb - Machine Learning Researcher at CMU
+description: I am Gregory Plumb and am a PhD student at CMU doing machine learning research with a focus on interpretability (explainable machine learning).  This is my personal webpage where I will keep track of the research and code I publish as well as anything else that may be relevant (awards, talks, etc.).  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://gdplumb.github.io
+github_username:  gdplumb
+
+plugins:
+  - jekyll-seo-tag
